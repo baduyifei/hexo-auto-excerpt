@@ -14,7 +14,7 @@ npm install --save hexo-auto-excerpt
 
 摘录的字符数是设置为 350，可以自定义。
 
-```yml
+```sh
 excerpt_length: 350
 ```
 
