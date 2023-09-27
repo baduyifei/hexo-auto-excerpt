@@ -9,7 +9,9 @@ npm install --save hexo-auto-excerpt
 ```
 
 ### Option
+在 hexo 配置文件中添加如下信息：
+摘录的字符数是设置为 350，可以自定义。
+excerpt_length: 350
 
-excerpt_length: 350 (number of characters)
-
+如果什么都不写，都不设置，则默认是 300.
 default length is 300, if not specified.
